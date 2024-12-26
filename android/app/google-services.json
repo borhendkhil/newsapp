@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713847343535",
+    "project_id": "newsapp-238f0",
+    "storage_bucket": "newsapp-238f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713847343535:android:c938975f446915d503875a",
+        "android_client_info": {
+          "package_name": "com.example.news_app_tekup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDrIg7swRTW19WrTQEl7e0tU1b_6kBJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
